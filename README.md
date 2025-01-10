@@ -1,2 +1,6 @@
 # Proyecto-tesis
-Se desarrollaron códigos en Python para clasificar interferencias en redes 4G mediante espectrogramas y redes CNN. Estos scripts, disponibles en un repositorio público de GitHub, incluyen documentación detallada para su configuración y uso, promoviendo la reproducibilidad, transparencia y colaboración en la comunidad científicaurante este proyecto.
+Durante el desarrollo de esta investigación, fui creando y programando varios códigos en Python con el propósito de enfrentar los retos relacionados con la identificación y clasificación de interferencias en redes 4G. Estos códigos incluyen desde herramientas para generar imágenes de espectrogramas, técnicas de preprocesamiento y aumento de datos, hasta la implementación y evaluación de modelos de aprendizaje profundo basados en redes neuronales convolucionales (CNN).
+
+Para que este trabajo pueda ser útil a otras personas interesadas en el tema, he decidido compartir los códigos en un repositorio público en GitHub. Esto no solo asegura que los scripts estén disponibles para todos, sino que también fomenta la colaboración y la transparencia, permitiendo que otros puedan replicar los experimentos, aprender de ellos o incluso proponer mejoras.
+
+El repositorio está acompañado de una documentación completa que explica cómo configurar, instalar y ejecutar los scripts, además de incluir ejemplos de los resultados obtenidos. Todo esto facilita que el modelo se pueda implementar en distintos entornos, especialmente en equipos con características similares a los utilizados en esta investigación.
